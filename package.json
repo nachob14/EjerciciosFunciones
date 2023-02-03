@@ -1,0 +1,11 @@
+{
+  "name": "ejerciciosfunciones",
+  "version": "1.0.0",
+  "description": "Ejercicios de funciones del curso de Javascript de Open Bootcamp",
+  "main": "EjerciciosFunciones.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Ignacio Bordon",
+  "license": "ISC"
+}
